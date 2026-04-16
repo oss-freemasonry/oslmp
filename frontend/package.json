@@ -10,8 +10,16 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tiptap/extension-link": "^3.22.3",
+    "@tiptap/extension-underline": "^3.22.3",
+    "@tiptap/pm": "^3.22.3",
+    "@tiptap/react": "^3.22.3",
+    "@tiptap/starter-kit": "^3.22.3",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
